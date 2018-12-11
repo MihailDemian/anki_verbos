@@ -1,0 +1,121 @@
+.typeansw{
+    max-width: 280px;
+    margin:auto;
+    padding: 0;
+    font-size: 24px;
+    text-align:center;
+}
+
+.card {
+   font-family:  Roboto, Verdana, Sans, Arial;
+   font-size: 27px;
+   text-align: center;
+   color: #1C1C1C;
+   background-color: #EFEFEF;
+}
+
+.verbo{
+   font-family:  Roboto, Verdana, Sans, Arial;
+   font-size: 60px;
+   font-weight: bold;
+   color: #1b3b81;
+   margin: auto auto;
+}
+
+.important {
+   font-family:  Roboto, Verdana, Sans, Arial;
+   font-size: 20px;
+   font-weight: bold;
+   color: black;
+   padding-bottom: 3px;
+}
+
+.redc{
+	color: #C70039;
+}
+
+.yellowc{
+	color: #FFC300;
+}
+
+.greenc{
+	color: #50af53 ;
+}
+
+.REGULAR{
+    color: #50af53 ;
+}
+
+.IRREGULAR{
+    color: #C70039 ;
+}
+.bluec{
+	color: #396494 ;
+}
+
+.unimportant {
+   font-family:  Roboto, Verdana, Sans, Arial;
+   font-size: 15px;
+   color: #1C1C1C;
+}
+
+.audiobutton {
+   width: 60px;
+   display: block;
+   margin: auto;
+   border-style: none;
+   border: 0px solid #f8644f;
+   font-size: 15px;
+}
+
+img { 
+   border-radius: 0px;
+   border: 2px solid #1C1C1C;
+   padding: 0px;
+   max-width: 230px;
+   max-height:230px;
+   display: block;
+   margin: auto;
+}
+
+a:link, a:visited, a:hover, a:active {
+   color: #blue;
+   text-decoration: none;
+}
+
+.replaybutton {
+   display: block;
+   margin: auto;
+   border-style: none;
+   border: 0px solid #f8644f;
+}
+
+.link {
+    background-color: white;
+    color: blue;
+    border: 1px solid #000000;
+    padding: 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 0px 5px;
+    cursor: pointer;
+}
+
+.button {
+    background-color: white;
+    color: blue;
+    border: 1px solid #000000;
+    padding: 3% 3%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 0px 5px;
+    cursor: pointer;
+}
+#answer{
+    padding: 0px;
+    margin: 3px;
+}
